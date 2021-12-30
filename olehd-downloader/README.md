@@ -54,5 +54,4 @@ python3 用户必须先执行命令 `python3 -m pip install beautifulsoup4==4.7.
 11. exe在D:\pythonenv\win_64_source\dist下
 
 ###### 待解决问题：
-1. 调用的ffmpeg太大
-2. ffmpeg执行时会弹cmd黑框
+1. ffmpeg执行时会弹cmd黑框
