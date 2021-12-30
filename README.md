@@ -31,7 +31,7 @@ Windows (64-bit) 用户，只需要下载 "[欧乐下载器_win_64_exe.zip](http
 ---
 ### python 3 用户:
 
-下载代码后，请自行下载"ffmpeg.exe(https://www.aliyundrive.com/s/KG3JFxHjCAo)"，放到.\olehd-downloader\olehd_lib目录下，修复视频功能才可以使用
+下载代码后，请自行下载"[ffmpeg.exe](https://www.aliyundrive.com/s/KG3JFxHjCAo)"，放到.\olehd-downloader\olehd_lib目录下，修复视频功能才可以使用
 只适用于windows用户。
 
 使用 `python3 ole_gui.py` 打开图形界面，或 `python3 ole_console.py -选项` 使用命令行界面。
