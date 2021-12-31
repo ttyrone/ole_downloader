@@ -26,7 +26,7 @@ https://www.olehd.com/index.php/vod/detail/id/32437.html 粘贴这样的网址
 
 ---
 ### 普通用户:
-Windows (64-bit) 用户，只需要下载 "[欧乐下载器_win_64_exe.zip](https://www.aliyundrive.com/s/MQan7K5YU4o)",  双击 "欧乐下载器 win_64 v1.0.exe" 文件执行。 
+Windows (64-bit) 用户，只需要下载 "[欧乐下载器_win_64_exe.zip](https://www.aliyundrive.com/s/E7pyCkxv7sw)",  双击 "欧乐下载器 win_64 v1.0.exe" 文件执行。 
 
 ---
 ### python 3 用户:
